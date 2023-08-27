@@ -2,19 +2,6 @@
 
 The `DynamicSize` component is a React component that dynamically adjusts the font size based on the screen size. It listens for resize events and updates the font size accordingly. This can be useful in creating responsive web designs where the font size needs to adjust based on the device's screen size.
 
-## Installation
-
-To use the `DynamicSize` component in your React project, you can install it through npm or yarn:
-
-```bash
-npm install dynamic-size
-```
-
-or
-
-```bash
-yarn add dynamic-size
-```
 
 ## Usage
 
